@@ -1,0 +1,26 @@
+.rabbit {
+	/* position设置*/
+    position: absolute;
+    left: 100px;
+    width: 102px;
+    height: 80px;
+    background-repeat: no-repeat;
+}
+
+
+/* 图片的top都不同*/
+#rabbit1 {
+    top: 50px
+}
+
+#rabbit2 {
+    top: 200px
+}
+
+#rabbit3 {
+    top: 350px
+}
+
+#rabbit4 {
+    top: 500px
+}
